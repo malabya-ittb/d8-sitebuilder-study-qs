@@ -1,4 +1,4 @@
-1) How do you create a content view list with filtering based on starting alphabet from A-Z? <br>
+1) <b>How do you create a content view list with filtering based on starting alphabet from A-Z? </b> <br>
   a) Create a view display block, create a header with A-Z and have a context filter starting with character.<br>
   b) create an attachment to content view display and filter from A-Z.<br>
   c) Enable "glossary" view in view's list because it has alphabetical filtering<br>
@@ -31,16 +31,16 @@
   a) Create custom block, add the image link and place it in footer. <br>
   b) Add in the footer region of the Front Page View. <br>
 
-8) How to show google analytics to a website?
+8) How to show google analytics to a website?<br>
   a) Enable statistics module and add js in module config <br>
   b) Add js in the custom block and add it in footer <br>
 
-9) How do you disable a module in D8
+9) How do you disable a module in D8<br>
   a) Uncheck <br>
   b) Can't Disable <br>
   c) Got Uninstall <br>
 
-10) What are the distinguishing features of D8? TIck 3 Answers (options)
+10) What are the distinguishing features of D8? TIck 3 Answers (options)<br>
   a) Multilingual <br>
   b) Integrated CKEditor <br>
   .....
@@ -50,7 +50,7 @@
   b) Add http://www.examples.com <br>
   c) Add external links module. <br>
   
-12) If you want to give top commenters to post comments without approval, what would you do?
+12) If you want to give top commenters to post comments without approval, what would you do?<br>
   a) In permissions page, create a comment role and check skip comment approval. <br>
   b) In content type config, remove approval. <br>
 
