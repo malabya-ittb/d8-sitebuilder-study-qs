@@ -30,3 +30,32 @@
 7) A customer asks to show a link to facebook page in a website in the footer region. How do you do it? <br>
   a) Create custom block, add the image link and place it in footer. <br>
   b) Add in the footer region of the Front Page View. <br>
+
+8) How to show google analytics to a website?
+  a) Enable statistics module and add js in module config <br>
+  b) Add js in the custom block and add it in footer <br>
+
+9) How do you disable a module in D8
+  a) Uncheck <br>
+  b) Can't Disable <br>
+  c) Got Uninstall <br>
+
+10) What are the distinguishing features of D8? TIck 3 Answers (options)
+  a) Multilingual <br>
+  b) Integrated CKEditor <br>
+  .....
+  
+11) How do you give external links in a Menu? <br>
+  a) Can't give it in Menu <br>
+  b) Add http://www.examples.com <br>
+  c) Add external links module. <br>
+  
+12) If you want to give top commenters to post comments without approval, what would you do?
+  a) In permissions page, create a comment role and check skip comment approval. <br>
+  b) In content type config, remove approval. <br>
+
+13) If article and basic page has comments shared, If you want to add image field to comment and show it only for articles? <br>
+  a) Add image field to article <br>
+  b) Add image field and conditionally show in Basic Page <br>
+  c) Create Article comment type and show it in Article. <br>
+  d) Create Basic page comment type. <br>
